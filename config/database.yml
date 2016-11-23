@@ -82,4 +82,4 @@ production:
   <<: *default
   database: purple_cow_suncity
   username: toni
-  password: innasonki125006
+  password: 
