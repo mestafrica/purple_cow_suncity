@@ -1,0 +1,2 @@
+class ListForm < ApplicationRecord
+end

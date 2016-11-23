@@ -1,0 +1,2 @@
+class SearchForm < ApplicationRecord
+end
